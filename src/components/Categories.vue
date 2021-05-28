@@ -88,10 +88,6 @@ export default {
       margin-bottom: 15px;
       transition: fill 0.2s;
     }
-
-    .card-text {
-
-    }
   }
 }
 
